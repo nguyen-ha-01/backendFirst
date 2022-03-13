@@ -1,1 +1,1 @@
-web: build/install/backend/bin/backendFirst
+web: build/install/backendFirst/bin/backendFirst
